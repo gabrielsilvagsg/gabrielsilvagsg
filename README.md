@@ -16,5 +16,5 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsilvagsg&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvagsg&layout=compact&theme=dracula) 
+![Gabriel's GitHub stats]([https://github-readme-stats.vercel.app/api?username=gabrielsilvagsg&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=gabrielsilvagsg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1))  
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvagsg&layout=compact&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsilvagsg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)) 
