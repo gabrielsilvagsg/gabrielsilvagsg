@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gabriel Silva
+# 👋 Olá, me chamo Gabriel!
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia, segurança da informação e soluções inteligentes!  
 ⚙️ Atualmente criando sistemas de gerenciamento e automação, como ERPs e apps para motoristas e entregadores.  
