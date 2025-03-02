@@ -1,8 +1,7 @@
 # 👋 Olá, me chamo Gabriel!
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia, segurança da informação e soluções inteligentes!  
-⚙️ Atualmente criando sistemas de gerenciamento e automação, como ERPs e apps para motoristas e entregadores.  
-🌱 Sempre aprendendo algo novo — ultimamente focado em **Java**, **Spring Boot**, **Flutter** e **JavaFX**.              
+🌱 Sempre aprendendo algo novo — ultimamente focado em **Java**, **Spring Boot** e **Flutter**              
 🛠️ Curto criar APIs robustas, sistemas eficientes e otimizados.  
 
 ## 🚀 Tech Stack
